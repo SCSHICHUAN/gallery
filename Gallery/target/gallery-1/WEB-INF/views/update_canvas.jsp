@@ -98,7 +98,7 @@
             <div class="col-sm-8">
                 <input type="hidden" name="noChangeImg" value="noChangeImg">
                 <input id="smallImg" name="smallImg" class="file-loading"
-                       type="file" multiple accept=".jpg,.jpeg,.png" data-min-file-count="1"
+                       type="file" multiple  data-min-file-count="1"
                        data-show-preview="true" value="">
             </div>
         </div>

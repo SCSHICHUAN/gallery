@@ -7,62 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="918da441-d715-42de-9b88-0be411221a87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gallery_Web_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enter/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enter/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DAO/DaoCallery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/DaoCallery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoCallery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoCallery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_canvas.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_canvas.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_category.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/canvas_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/canvas_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/category_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/category_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/detail.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/gallery.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/gallery.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/show.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_canvas.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_canvas.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_category.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/add.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/reg.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/reg.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_details_03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_details_04.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_login.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_login.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/hongmofangde wuhui.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/hongmofangde wuhui.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/index_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/index_banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/login_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/login_banner.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/richuyinxing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/richuyinxing.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/songshulinzhicheng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/songshulinzhicheng.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/welcome.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/welcome.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wudaojiaoshi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wudaojiaoshi.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wumingnvlang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wumingnvlang.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/IMG_5807.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/IMG_5807.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/QQ-weixin.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/QQ-weixin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/屏幕快照 2019-01-02 下午12.11.14.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/屏幕快照 2019-01-02 下午12.11.14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/outimg/屏幕快照 2019-01-07 上午10.29.14.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/outimg/屏幕快照 2019-01-07 上午10.29.14.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/add.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/detail.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/done.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/done.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/error.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/error.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -244,12 +189,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
+          <entry key="jsp" value="1" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
+          <entry key="JSP" value="1" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
@@ -271,15 +218,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalloryItem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
@@ -294,6 +232,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -303,7 +250,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="218">
@@ -403,8 +350,8 @@
       <find>updateTime</find>
       <find>description</find>
       <find>addCategory</find>
-      <find>createCategory</find>
       <find>sourceType</find>
+      <find>createCategory</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/target/Gallery-1.0-SNAPSHOT</dir>
@@ -449,9 +396,9 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add_canvas.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" />
         <option value="$PROJECT_DIR$/src/main/java/enter/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp" />
       </list>
     </option>
   </component>
@@ -485,8 +432,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="25" />
+    <option name="x" value="88" />
+    <option name="y" value="31" />
     <option name="width" value="1490" />
     <option name="height" value="886" />
   </component>
@@ -550,6 +497,30 @@
             <path>
               <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -566,7 +537,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671220081311" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671220863821" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -726,12 +697,12 @@
       <workItem from="1671188480991" duration="1131000" />
       <workItem from="1671190014979" duration="13048000" />
       <workItem from="1671205560191" duration="2572000" />
-      <workItem from="1671211644396" duration="8043000" />
+      <workItem from="1671211644396" duration="8478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229290000" />
+    <option name="totallyTimeSpent" value="229725000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +716,7 @@
   <component name="ToolWindowManager">
     <frame x="25" y="25" width="1490" height="886" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" x="295" y="298" width="417" height="437" id="Project" order="0" sideWeight="0.6744639" visible="true" weight="0.28798342" />
+      <window_info active="true" content_ui="combo" x="295" y="298" width="417" height="437" id="Project" order="0" sideWeight="0.6744639" visible="true" weight="0.28798342" />
       <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.28798342" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -757,7 +728,7 @@
       <window_info id="Designer" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49898306" visible="true" weight="0.34898478" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49898306" visible="true" weight="0.34898478" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23477158" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -1055,13 +1026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -1138,6 +1102,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="100" column="44" selection-start-line="100" selection-start-column="44" selection-end-line="100" selection-end-column="44" />
         </state>
       </provider>
     </entry>
