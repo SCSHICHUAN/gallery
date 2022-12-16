@@ -13,6 +13,7 @@ import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.FileItemFactory;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
+import org.omg.CORBA.Object;
 
 
 import javax.servlet.ServletException;
@@ -25,7 +26,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
-
 
 
 public class Controller {
@@ -231,17 +231,27 @@ public class Controller {
         String name = (String) request.getParameter("name");
         String description = (String) request.getParameter("description");
 
+
+
         System.out.println(name + "    " + description + "----------");
 
         Date date = new Date();
 
         Category category = new Category();
-        category.setName(name);
-        category.setDescription(description);
-        category.setCreateTime(date);
-        category.setUpdateTime(date);
 
-        daoCallery.addCategory(category);
+
+
+        if ((name != null) && (description != null)){
+            category.setName(name);
+            category.setDescription(description);
+            category.setCreateTime(date);
+            category.setUpdateTime(date);
+            daoCallery.addCategory(category);
+            System.out.print("====aaaaaaa");
+        }
+        System.out.print("bbbbbbbbbbb====");
+
+
 
         List<Category> categories = daoCallery.getCategorys();
         request.setAttribute("categories", categories);

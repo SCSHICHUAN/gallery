@@ -66,7 +66,7 @@ public interface DaoCallery {
             @Result(column = "image", property = "image"),
             @Result(column = "descroption", property = "descroption"),
             @Result(column = "details", property = "details"),
-            @Result(column = "sourceType", property = "sourceType"),
+//            @Result(column = "sourceType", property = "sourceType"),
             @Result(column = "cName", property = "category.name")
     })
     public List<CalloryItem> showItems();
@@ -76,8 +76,8 @@ public interface DaoCallery {
 //    public Buffer getImgById(int id);
 
 
-    @Insert("insert into category(name,createTime,updateTime,description,sourceType)" +
-            "values(#{name},#{createTime},#{updateTime},#{description},#{sourceType})")
+    @Insert("insert into category(name,createTime,updateTime,description)" +
+            "values(#{name},#{createTime},#{updateTime},#{description})")
     @Options(useGeneratedKeys = true, keyProperty = "id")
     public void addCategory(Category category);
 

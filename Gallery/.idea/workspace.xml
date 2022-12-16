@@ -2,11 +2,68 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Gallery:war exploded" />
+      <artifact name="gallery" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="918da441-d715-42de-9b88-0be411221a87" name="Default Changelist" comment="" />
+    <list default="true" id="918da441-d715-42de-9b88-0be411221a87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gallery_Web_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/enter/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enter/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DAO/DaoCallery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DAO/DaoCallery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoCallery.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoCallery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_canvas.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_canvas.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/canvas_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/canvas_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/category_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/category_list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/gallery.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/gallery.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/show.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/show.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_canvas.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_canvas.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_category.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_category.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/add.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/reg.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/css/reg.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_details_03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_04.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_details_04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_login.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/MG_login.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/hongmofangde wuhui.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/hongmofangde wuhui.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/index_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/index_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/login_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/login_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/richuyinxing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/richuyinxing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/songshulinzhicheng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/songshulinzhicheng.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/welcome.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/welcome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wudaojiaoshi.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wudaojiaoshi.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wumingnvlang.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/image/wumingnvlang.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/IMG_5807.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/IMG_5807.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/QQ-weixin.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/QQ-weixin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/屏幕快照 2019-01-02 下午12.11.14.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/img/屏幕快照 2019-01-02 下午12.11.14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/outimg/屏幕快照 2019-01-07 上午10.29.14.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/outimg/屏幕快照 2019-01-07 上午10.29.14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/add.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/add.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/detail.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/detail.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/done.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/done.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/error.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/error.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery-1/style/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gallery.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -177,6 +234,36 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1328785416">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="sql" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="179" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="179" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Gallery" />
@@ -184,43 +271,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="48" column="31" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="48" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="556">
-              <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-              <folding>
-                <element signature="n#style#0;n#select#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="600">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -228,21 +282,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalloryItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-582">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="355">
+              <caret line="80" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="e#539#540#0" expanded="true" />
                 <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#924#925#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="311" column="37" selection-start-line="311" selection-start-column="30" selection-end-line="311" selection-end-column="37" />
+            <state relative-caret-position="218">
+              <caret line="243" column="51" lean-forward="true" selection-start-line="243" selection-start-column="51" selection-end-line="243" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -251,9 +316,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/gallery.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
+            <state relative-caret-position="1935">
               <caret line="129" column="23" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="23" />
             </state>
           </provider>
@@ -262,8 +336,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Servlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="331">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enter/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -271,17 +354,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add_canvas.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="630">
               <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="49" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="56" column="109" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
+            <state relative-caret-position="141">
+              <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -315,10 +398,20 @@
       <find>realImagePathRelease</find>
       <find>calloryItem</find>
       <find>updataGallery</find>
+      <find>name</find>
+      <find>createTime</find>
+      <find>updateTime</find>
+      <find>description</find>
+      <find>addCategory</find>
+      <find>createCategory</find>
+      <find>sourceType</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/target/Gallery-1.0-SNAPSHOT</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -353,12 +446,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Model/CalloryItem.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/enter/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add_canvas.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/enter/Controller.java" />
       </list>
     </option>
   </component>
@@ -392,17 +485,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="31" />
+    <option name="x" value="25" />
+    <option name="y" value="25" />
     <option name="width" value="1490" />
     <option name="height" value="886" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -455,50 +550,15 @@
             <path>
               <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
               <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gallery" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gallery" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -506,11 +566,11 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671204428382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1671220081311" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -553,14 +613,14 @@
       <method v="2" />
     </configuration>
     <configuration name="server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="START_JAVASCRIPT_DEBUGGER" value="true" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Gallery:war exploded">
+        <artifact name="gallery">
           <settings>
-            <option name="CONTEXT_PATH" value="/gallery" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -625,6 +685,7 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="Gallery:war exploded" />
+          <artifact name="gallery" />
         </option>
       </method>
     </configuration>
@@ -665,11 +726,12 @@
       <workItem from="1671188480991" duration="1131000" />
       <workItem from="1671190014979" duration="13048000" />
       <workItem from="1671205560191" duration="2572000" />
+      <workItem from="1671211644396" duration="8043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221247000" />
+    <option name="totallyTimeSpent" value="229290000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -681,40 +743,40 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="31" width="1490" height="886" extended-state="0" />
+    <frame x="25" y="25" width="1490" height="886" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49861497" visible="true" weight="0.2845304" />
-      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" x="295" y="298" width="417" height="437" id="Project" order="0" sideWeight="0.6744639" visible="true" weight="0.28798342" />
+      <window_info id="Structure" order="1" sideWeight="0.5025381" side_tool="true" weight="0.28798342" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
       <window_info id="Test Runs" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Web" order="6" sideWeight="0.5011876" side_tool="true" weight="0.21506849" />
+      <window_info id="Web" order="6" sideWeight="0.5025381" side_tool="true" weight="0.28798342" />
       <window_info id="Cloverage" order="7" />
-      <window_info id="Favorites" order="8" sideWeight="0.50138503" side_tool="true" weight="0.17521155" />
+      <window_info id="Favorites" order="8" sideWeight="0.32553607" side_tool="true" weight="0.28798342" />
       <window_info id="Designer" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49898306" visible="true" weight="0.1180203" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.23576158" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49898306" visible="true" weight="0.34898478" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23477158" />
+      <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3285473" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285473" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.501017" side_tool="true" weight="0.24838293" />
       <window_info anchor="bottom" id="Application Servers" order="10" weight="0.32934132" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32994923" />
       <window_info anchor="bottom" x="1202" y="822" width="1214" height="418" id="Messages" order="14" type="FLOATING" weight="0.3286424" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Commander" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.17403315" />
+      <window_info anchor="right" x="1092" y="210" width="338" height="650" id="Maven Projects" order="6" type="WINDOWED" visible="true" weight="0.26864642" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -797,8 +859,11 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/Gallery-1.0-SNAPSHOT/outimg/2019_01_07_11_11_11_431.png" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -850,13 +915,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/style/login.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/image/wudaojiaoshi.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -917,11 +975,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -943,11 +996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="85" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="e#3063#3064#0" expanded="true" />
-            <element signature="e#6566#6567#0" expanded="true" />
-            <element signature="e#6603#6604#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,9 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="61" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="e#2133#2134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -996,6 +1041,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="31" selection-start-line="34" selection-start-column="19" selection-end-line="48" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/gallery.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="23" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add_canvas.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalloryItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1003,86 +1103,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/enter/Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="331">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalloryItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-582">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#583#584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/gallery.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="129" column="23" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/detail.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="48" column="31" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="48" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="61" column="114" selection-start-line="61" selection-start-column="114" selection-end-line="61" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/add_canvas.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="49" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="311" column="37" selection-start-line="311" selection-start-column="30" selection-end-line="311" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#select#0;n#div#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="56" column="109" selection-start-line="56" selection-start-column="109" selection-end-line="56" selection-end-column="109" />
+        <state relative-caret-position="141">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="243" column="51" lean-forward="true" selection-start-line="243" selection-start-column="51" selection-end-line="243" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1092,7 +1147,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>Gallery:war exploded</last-edited>
+          <last-edited>gallery:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1105,7 +1160,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (Gallery)|Web</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1140,12 +1195,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Gallery</last-edited>
+          <last-edited>gallery</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
