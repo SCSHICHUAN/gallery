@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="784a38e1-d33a-49ea-b607-1e41f7f1ddaf" name="sc-ftp" url="http://47.101.144.186">
-        <fileTransfer host="47.101.144.186" port="22" rootFolder="/tomcat/apache-tomcat-9.0.10/webapps/" accessType="SFTP">
+        <fileTransfer host="47.101.144.186" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>

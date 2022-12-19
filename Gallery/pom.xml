@@ -52,13 +52,14 @@
             <artifactId>log4j</artifactId>
             <version>1.2.17</version>
         </dependency>
-
+        <!--Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装-->
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>5.4.0.Final</version>
         </dependency>
     </dependencies>
+
 
 
 
