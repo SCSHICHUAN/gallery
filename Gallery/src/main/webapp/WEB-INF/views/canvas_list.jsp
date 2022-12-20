@@ -7,8 +7,9 @@
 <head>
     <meta charset="UTF-8">
     <title>发型列表</title>
-    <link rel="stylesheet" href="/gallery//css/index.css">
-    <link rel="stylesheet" href="/gallery//css/bootstrap.min.css">
+    <link rel="stylesheet" href="/gallery/css/index.css">
+    <link rel="stylesheet" href="/gallery/css/bootstrap.min.css">
+    <script type="text/javascript" src="/gallery/js/jquery-1.4.2.js"></script>
 </head>
 
 <body>
@@ -39,6 +40,7 @@
         <table class="table table-striped">
             <thead>
             <tr>
+                <th>复制</th>
                 <th>名称</th>
                 <th>分类</th>
                 <th>价格</th>
@@ -49,10 +51,11 @@
                 <th>删除</th>
             </tr>
             </thead>
-            <tbody>
+            <tbody class="table-body">
 
             <c:forEach items="${pageInfo.list}" var="gallery">
             <tr>
+                <td><button value = "${gallery.imgPath}" style="color: #2a6496">复制链接</button></td>
                 <td>${gallery.name}</td>
                 <td>${gallery.category.name}</td>
                 <td>￥<fmt:formatNumber type="currency" pattern="#,#00.00#" value="${gallery.price}"/></td>
@@ -60,7 +63,7 @@
                 <td><fmt:formatDate pattern="yyyy-MM-dd HH:mm:ss" value="${gallery.updateTime}"/></td>
                 <td>${gallery.descroption}</td>
                 <td><a href="/gallery/Controller/galleryEdit.go?id=${gallery.id}&&pageNum=${pageInfo.pageNum}">编辑/查看</a></td>
-                <td><a href="/gallery/Controller/galleryDelete.go?id=${gallery.id}&&pageNum=${pageInfo.pageNum}">删除</a>
+                <td><a  onclick="return confirm('是否删除？')" href="/gallery/Controller/galleryDelete.go?id=${gallery.id}&&pageNum=${pageInfo.pageNum}">删除</a>
             </tr>
             </c:forEach>
             </tbody>
@@ -95,5 +98,36 @@
 <footer>
     <p><span>M-GALLARY</span>©2019 POWERED BY STANSERVER.CN</p>
 </footer>
+<script>
+
+
+    $(".table-body").click(function (e) {
+       copyVideoUrl(e);
+    });
+
+    function copyVideoUrl(event){
+
+        var value = $(event.target).attr('value');
+            value = "https://stanserver.cn" + value;
+        var success;
+        var $temp = $("<input>");
+        $("body").append($temp);
+        $temp.val(value).select();
+        try{
+            success = document.execCommand("copy");
+        }catch (e){
+            succeed = false;
+        }
+        if(success){
+            var copySuccess = "<div class='copy-tips' style='color: red'>已复制</div>";
+            $(event.target).find(".copy-tips").remove();
+            $(event.target).append(copySuccess);
+            $(".copy-tips").fadeOut(500);
+        }
+
+        $temp.remove();
+    }
+
+</script>
 </body>
 </html>
