@@ -42,6 +42,7 @@
             <tr>
                 <th>复制</th>
                 <th>名称</th>
+                <th>类型</th>
                 <th>分类</th>
                 <th>价格</th>
                 <th>创建时间</th>
@@ -57,6 +58,7 @@
             <tr>
                 <td><button value = "${gallery.imgPath}" style="color: #2a6496">复制链接</button></td>
                 <td>${gallery.name}</td>
+                <td>${gallery.sourceType}</td>
                 <td>${gallery.category.name}</td>
                 <td>￥<fmt:formatNumber type="currency" pattern="#,#00.00#" value="${gallery.price}"/></td>
                 <td><fmt:formatDate pattern="yyyy-MM-dd HH:mm:ss" value="${gallery.createTime}"/></td>

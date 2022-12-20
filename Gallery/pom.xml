@@ -8,6 +8,10 @@
     <artifactId>gallery</artifactId>
     <version>1</version>
     <packaging>war</packaging>
+    <!--war包是最终名字 -->
+    <build>
+        <finalName>gallery</finalName>
+    </build>
 
     <dependencies>
         <dependency>

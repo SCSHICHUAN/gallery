@@ -30,6 +30,7 @@ import java.util.List;
 
 public class Controller {
 
+
     private int currentPage = 0;
     private static final String realImagePathDevelop = "/Users/stan/Desktop";
     private static final String realImagePathRelease = "/tomcat/apache-tomcat-9.0.10/webapps";
@@ -247,10 +248,7 @@ public class Controller {
             category.setCreateTime(date);
             category.setUpdateTime(date);
             daoCallery.addCategory(category);
-            System.out.print("====aaaaaaa");
         }
-        System.out.print("bbbbbbbbbbb====");
-
 
 
         List<Category> categories = daoCallery.getCategorys();
@@ -475,8 +473,6 @@ public class Controller {
         CalloryItem calloryItem = daoCallery.selectCalloryById(Integer.parseInt(id));
         request.setAttribute("gallery", calloryItem);
         request.getRequestDispatcher("/WEB-INF/views/detail.jsp").forward(request, response);
-
-
     }
 
 
