@@ -363,6 +363,8 @@ public class Controller {
                         calloryItem.setPrice(Integer.valueOf(fileItem.getString()));
                     } else if (fileName.equals("description")) {
                         calloryItem.setDescroption(fileItem.getString("utf-8"));
+                    }if (fileName.equals("sourceType")) {
+                        calloryItem.setSourceType(fileItem.getString("utf-8"));
                     } else if (fileName.equals("details")) {
                         if (fileItem.getString("utf-8").equals("")) {
                             calloryItem.setDetails("无");

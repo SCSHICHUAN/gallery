@@ -8,106 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="918da441-d715-42de-9b88-0be411221a87" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/enter/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/enter/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/enter/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enter/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/enter/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enter/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gallory.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gallory.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoCallery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/DAO/DaoFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/Model/CalloryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/Model/Category.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/enter/Servlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/gallory.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/classes/mybatis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/byte-buddy-1.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/commons-io-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/hibernate-core-5.4.0.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/javax.servlet-api-4.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jsqlparser-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/mybatis-3.4.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/mysql-connector-java-5.1.44.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/pagehelper-5.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_canvas.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/add_category.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/canvas_list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/category_list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/detail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/gallery.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/show.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_canvas.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/views/update_category.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/add.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/css/reg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_details_04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/MG_login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/hongmofangde wuhui.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/index_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/login_banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/richuyinxing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/songshulinzhicheng.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/welcome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wudaojiaoshi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/image/wumingnvlang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/IMG_5807.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/QQ-weixin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/img/屏幕快照 2019-01-02 下午12.11.14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/js/jquery-1.4.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/outimg/屏幕快照 2019-01-07 上午10.29.14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/add.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/common.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/detail.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/done.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/error.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery-1/style/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery/WEB-INF/classes/enter/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery/WEB-INF/classes/enter/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery/WEB-INF/classes/enter/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery/WEB-INF/classes/enter/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gallery/WEB-INF/views/canvas_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/gallery/WEB-INF/views/canvas_list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -296,11 +197,11 @@
     <session id="-1328785416">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -310,7 +211,7 @@
           <entry key="java" value="14" />
           <entry key="jpeg" value="1" />
           <entry key="js" value="1" />
-          <entry key="jsp" value="4" />
+          <entry key="jsp" value="5" />
           <entry key="png" value="4" />
           <entry key="properties" value="2" />
           <entry key="sql" value="3" />
@@ -323,7 +224,7 @@
           <entry key="CSS" value="3" />
           <entry key="Image" value="5" />
           <entry key="JAVA" value="14" />
-          <entry key="JSP" value="4" />
+          <entry key="JSP" value="5" />
           <entry key="JavaScript" value="1" />
           <entry key="Properties" value="2" />
           <entry key="SQL" value="3" />
@@ -332,7 +233,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="188" />
+          <entry key="java" value="189" />
           <entry key="jsp" value="229" />
           <entry key="properties" value="8" />
           <entry key="xml" value="150" />
@@ -340,7 +241,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="188" />
+          <entry key="JAVA" value="189" />
           <entry key="JSP" value="229" />
           <entry key="Properties" value="8" />
           <entry key="XML" value="150" />
@@ -354,15 +255,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Model/CalloryItem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
@@ -375,9 +267,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="49" column="75" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
+            <state relative-caret-position="690">
               <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
             </state>
           </provider>
@@ -386,17 +287,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Filter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="450">
               <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="39" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="79" column="49" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="49" />
+            <state relative-caret-position="333">
+              <caret line="367" column="21" selection-start-line="367" selection-start-column="21" selection-end-line="367" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -425,7 +326,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="315">
               <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
             </state>
           </provider>
@@ -444,7 +345,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/enter/Login.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -531,9 +432,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/mybatis.xml" />
         <option value="$PROJECT_DIR$/src/main/java/enter/Filter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/enter/Controller.java" />
         <option value="$PROJECT_DIR$/src/main/java/enter/Login.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/canvas_list.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/enter/Controller.java" />
       </list>
     </option>
   </component>
@@ -677,9 +578,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -855,11 +756,12 @@
       <workItem from="1671446894686" duration="2008000" />
       <workItem from="1671538568243" duration="7341000" />
       <workItem from="1671547389317" duration="4533000" />
+      <workItem from="1671611838552" duration="451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253626000" />
+    <option name="totallyTimeSpent" value="254077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -874,7 +776,7 @@
   <component name="ToolWindowManager">
     <frame x="30" y="31" width="1490" height="886" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" x="295" y="298" width="417" height="437" id="Project" order="0" sideWeight="0.57007575" visible="true" weight="0.23618785" />
+      <window_info active="true" content_ui="combo" x="295" y="298" width="417" height="437" id="Project" order="0" sideWeight="0.57007575" visible="true" weight="0.23895028" />
       <window_info id="Structure" order="1" sideWeight="0.42992425" side_tool="true" weight="0.29627073" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -899,7 +801,7 @@
       <window_info anchor="bottom" x="77" y="344" width="1448" height="260" id="Terminal" order="12" weight="0.32868022" />
       <window_info anchor="bottom" x="403" y="308" width="581" height="366" id="Messages" order="13" weight="0.32741117" />
       <window_info anchor="bottom" x="207" y="513" width="1261" height="303" id="Run" order="14" sideWeight="0.660221" weight="0.26522842" />
-      <window_info anchor="bottom" id="File Transfer" order="15" sideWeight="0.4993094" weight="0.35913706" />
+      <window_info anchor="bottom" id="File Transfer" order="15" sideWeight="0.4993094" visible="true" weight="0.35913706" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -1067,13 +969,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="84" column="3" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/gallery.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1935">
@@ -1175,52 +1070,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/img/屏幕快照 2019-01-02 下午12.11.14.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Filter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.jar!/org/apache/commons/fileupload/FileItemFactory.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1-sources.jar!/org/apache/commons/fileupload/FileItemFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1231,20 +1084,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="79" column="49" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="690">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoCallery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1-sources.jar!/org/apache/commons/fileupload/FileItemFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DAO/DaoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/enter/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -1254,6 +1139,23 @@
           <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/update_canvas.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="49" column="75" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enter/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="367" column="21" selection-start-line="367" selection-start-column="21" selection-end-line="367" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
