@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>发型列表</title>
+    <title>列表</title>
     <link rel="stylesheet" href="/gallery/css/index.css">
     <link rel="stylesheet" href="/gallery/css/bootstrap.min.css">
     <script type="text/javascript" src="/gallery/js/jquery-1.4.2.js"></script>
@@ -30,8 +30,8 @@
 <section class="banner">
     <div class="container">
         <div>
-            <h1>发型</h1>
-            <p>发型列表</p>
+            <h1>资源管理</h1>
+            <p>列表</p>
         </div>
     </div>
 </section>

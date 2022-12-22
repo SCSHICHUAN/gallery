@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>未来世界发型画廊</title>
+    <title>画廊</title>
     <link rel="stylesheet" type="text/css" href="/gallery/style/common.css"/>
     <link rel="stylesheet" type="text/css" href="/gallery/style/index.css"/>
 </head>
@@ -23,7 +23,7 @@
 </div>
 <div class="content">
     <div class="banner" style="height: 550px">
-        <div class="banner-text">未来世界发型画廊</div>
+        <div class="banner-text">未来世界画廊</div>
         <img class="banner-img" src="/gallery/img/屏幕快照 2019-01-02 下午12.11.14.png" width="732px" height="837" alt="图片描述">
     </div>
 
